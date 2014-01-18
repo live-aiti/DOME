@@ -1,4 +1,7 @@
 DOME
 ====
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA4XSfSTgu25SSPXr703/JyX/9yCiqtwk7wpjzst/IIiWSK2PapHkExjLBBQMpEAQqUvVIjejZp0avKq4t/Aw5fFmG4hEEOyqrcdNPQsJgWO9mUsSRJ7RXWZHMTTi/cszty19H2HkZMj6aL1OAvBDMqJGxs9Pv1ADtW+rXPgCjGDHbX4styyrc3U9DhH5YnbsVGtXchxZc137W2AJJM/qflAgcYjSxSAZd0iEx5Lf+96/hY9sGl9vxMFg2sqUcPrqAW1PRgo7UhN4Xe0PP1944oew+f/f8nV4zFoEUAdtl0sf4aEKkOaRln5RUxkM2Xc4bVYzFysO+6uerI8V+1zhrHQ== Administrator@LY
 
-livedome
+git@github.com:live-aiti/DOME.git
+
+https://github.com/live-aiti/DOME.git
